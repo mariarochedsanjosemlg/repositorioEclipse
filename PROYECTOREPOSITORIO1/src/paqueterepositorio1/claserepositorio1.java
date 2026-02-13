@@ -6,6 +6,7 @@ public class claserepositorio1 {
 		int ili = 3;
 		
 		System.out.println("Pringao");
+		System.out.println(ili);
 		
 	}
 }
